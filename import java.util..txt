@@ -1,0 +1,7 @@
+import java.util.*:
+public class Main
+{
+  public static void main(string[] args){
+    Scanner object = new Scanner(System.in);     ---> n =int(input("Enter"))
+    int n = object.nextInt();                    ----> integer declare ,ouput is used to print in next line.
+    int i=0;

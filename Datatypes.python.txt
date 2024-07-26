@@ -1,0 +1,15 @@
+List []:
+     it is collection of data which is ordered and changeable.
+     it allows duplicate members.
+
+Tuple ():
+     it is colection of data which is ordered and unchangeable.
+     it allows duplicate members.
+
+Set {}:
+     it is the collection of data which unordered,unchangeable,unindexed.
+     it does not allow Duplicate members.
+
+Dictionary {"key":"values"}
+     it is the collection of data which is ordered and changeable
+     it does not allow duplicate members.
